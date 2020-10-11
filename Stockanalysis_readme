@@ -1,0 +1,12 @@
+# stock-analysis
+##Project Analysis
+The aim of the project was to utilize a combination of Microsoft Excel and VBA to analyze DQ stocks for the year 2017 and 2018 by steve.
+This information was generated using the Excel sheet provided.
+##Summary
+The results of the analysis for 2017 and 2018 was able to provide the returns for 2017 and 2018 as well as the execution time of both the original and refactored scripts.
+##Summary
+I was able to retrieve the analysis for the 2018 sheet. There was a challenge encountered with VBA and Excel with the code being verified as accurate but not loading correctly.As a result I was not able to retrieve the necessary screenshot of information.
+VBA proved to be a bit more challenging than I expected. I managed to get the codes to function accurately in the module but not refactored.
+The advantages of VBA is that you are able to process and analyze data from Excel and recode using VBA. This provides access and availability for a larger number of users to the data. Excel and VBA uses specific codes to perform tasks making it more manageable and easier to learn.
+In addition, one can include notes on the original macro which can be refactored at a later date. This allows for changes to be made and data to be updated.
+The disadvantages of VBA, is that you must be able to know the correct codes and trouble shoot accurately in order for it to work. There is also a security risk with macros where it can be used negatively.
